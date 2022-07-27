@@ -22,9 +22,9 @@ BBDD: SQL (PostgreSQL, Oracle & MS SQL Developer), MyBatis. NOSQL MongoDB |  JS 
 -------------
 
 ## 📊 My GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1b3lung0&layout=compact&theme=github_dark)
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=N1b3lung0&count_private=true&show_icons=true&theme=github_dark)
+| :mechanical_arm: | :mechanical_leg: |
+| - | - |
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1b3lung0&layout=compact&theme=github_dark) | ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=N1b3lung0&count_private=true&show_icons=true&theme=github_dark) |
 
 <!--
 **N1b3lung0/N1b3lung0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
