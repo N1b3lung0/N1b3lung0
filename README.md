@@ -1,3 +1,10 @@
+| :footprints: | :memo: |
+|- |-|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1b3lung0&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) | [![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1b3lung0&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) |
+
+
+
+
 ### Hi there 👋
 
 <!--
