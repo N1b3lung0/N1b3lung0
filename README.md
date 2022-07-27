@@ -21,7 +21,7 @@ BBDD: SQL (PostgreSQL, Oracle & MS SQL Developer), MyBatis. NOSQL MongoDB |  JS 
 
 -------------
 
-## :beginner: My GitHub Stats
+## 📊 My GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1b3lung0&layout=compact&theme=github_dark)
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=N1b3lung0&count_private=true&show_icons=true&theme=github_dark)
