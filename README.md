@@ -12,7 +12,7 @@
 ## 💻 Skills
 
 |Backend |  Frontend |
-| - | - |
+| :--- | ---: |
 | Main: Java 7 & 8 with Spring MVC and Boot 5. Testing with JUnit · Groovy | Frameworks: VUE, React y Angular. Testing with Jest
 Others: NodeJS, Python (Flask & Django) | Libraries: Vuetify, Bootstrap, MaterialUI, Ant Design, Prime, Materialize
 BBDD: SQL (PostgreSQL, Oracle & MS SQL Developer), MyBatis. NOSQL MongoDB |  JS · JQuery · HTML5 & CSS3 · SASS |
