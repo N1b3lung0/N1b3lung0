@@ -10,9 +10,11 @@
 
 ## 💻 Backend Skills
 
-> [!NOTE] MAIN LANGUAGE <img src="image.png" alt="JAVA" width="80"/> <img src="image-2.png" alt="SPRING" width="100"/> <img src="image-6.png" alt="JUNIT" width="80"/> <img src="image-3.png" alt="HIBERNATE" width="120"/>
+> [!NOTE] MAIN LANGUAGE
+> <img src="image.png" alt="JAVA" width="80"/> <img src="image-2.png" alt="SPRING" width="100"/> <img src="image-6.png" alt="JUNIT" width="80"/> <img src="image-3.png" alt="HIBERNATE" width="120"/>
 
-> [!TIP] OTHER LANGUAGES <img src="image-8.png" alt="NODEJS" width="80"/> <img src="image-7.png" alt="PYTHON" width="40"/>
+> [!TIP] OTHER LANGUAGES
+> <img src="image-8.png" alt="NODEJS" width="80"/> <img src="image-7.png" alt="PYTHON" width="40"/>
 
 ### You can reach through to my <a href="https://www.linkedin.com/in/carlos-martinez-crespo/" target="_blank">LinkedIn</a>
 
