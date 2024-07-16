@@ -28,7 +28,7 @@
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1b3lung0&layout=compact&theme=github_dark) | ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=N1b3lung0&count_private=true&show_icons=true&theme=github_dark) |
 
-![Carlos Martínez's Graph](https://github-readme-activity-graph.vercel.app/graph?username=n1b3lung0&custom_title=Carlos%20Martínez's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Carlos Martínez's Graph](https://github-readme-activity-graph.vercel.app/graph?username=n1b3lung0&custom_title=Carlos%20Mart%C3%ADnez%27s%20GitHub%20Activity%20Graph&bg_color=111111&color=AA151B&line=AA151B&point=F1BF00&area_color=AA151B&title_color=AA151B&area=true&hide_border=true&days=40)
 
 <!--
 **N1b3lung0/N1b3lung0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
