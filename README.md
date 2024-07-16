@@ -1,32 +1,27 @@
-# Carlos Martínez Crespo Github :octocat:
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b>Carlos Martínez Crespo :octocat:</b>
+        </samp>
+</h3>
 
-## 💁 About me
-
-### Hi! After more than 8 years as a technical consultant and IT coordinator I decided to change my life and start working about I really passionate me, programming. It was a hard decision, but now I can say I did the right thing, because you have to fight for what you are passionate about, and overall, you have to work on something that motivates you and makes you improve every day
-
-### Nowadays I am working as Software Developer at Atradius since 10th July 2023.
-
-### Next Digital Hub (consulting startup) was my previous job. Mainly we work in responsive web applications with a modern stack (Backend: Spring Boot - Frontend: VUE), applying continuous integration with GitLab CI. Back is tested (unit, integration and acceptance tests) with JUnit, Mockito and Object Mother pattern
+## Languages
+![Java](https://img.shields.io/badge/Java-007acc?style=for-the-badge&logo=java&labelColor=111111&logoColor=f89820)
+![Javascript](https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&labelColor=111111&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&labelColor=111111&logoColor=007acc)
 
 ## 💻 Backend Skills
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
 
-> MAIN LANGUAGE
-> 
-> <img src="image.png" alt="JAVA" width="80"/> <img src="image-2.png" alt="SPRING" width="100"/> <img src="image-6.png" alt="JUNIT" width="80"/> <img src="image-3.png" alt="HIBERNATE" width="120"/>
+## 💻 Frontend Skills
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-> OTHER LANGUAGES
-> 
-> <img src="image-8.png" alt="NODEJS" width="80"/> <img src="image-7.png" alt="PYTHON" width="40"/>
+<br/>
 
 ### You can reach through to my <a href="https://www.linkedin.com/in/carlos-martinez-crespo/" target="_blank">LinkedIn</a>
-
----
-
-## 📊 My GitHub Stats
-
-| :mechanical_arm:                                                                                                        | :mechanical_leg:                                                                                                                           |
-| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1b3lung0&layout=compact&theme=github_dark) | ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=N1b3lung0&count_private=true&show_icons=true&theme=github_dark) |
 
 <br/>
 <hr/>
