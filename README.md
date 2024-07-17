@@ -36,9 +36,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/n1b3lung0">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n1b3lung0&theme=dark" alt="Carlos Martínez's GitHub Contribution"/>
-  </a>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n1b3lung0&theme=dark" alt="Carlos Martínez's GitHub Contribution"/>
 </p>
 
 <p align="center">
