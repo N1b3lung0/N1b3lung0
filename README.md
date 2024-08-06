@@ -15,6 +15,7 @@
 <br/>
 <a href="#"><img src="https://img.shields.io/badge/Nodejs-F0DB4F?style=for-the-badge&labelColor=0D1117&logo=node.js" alt="Nodejs"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Express.js-F0DB4F?style=for-the-badge&labelColor=0D1117&logo=express" alt="Express.js"/></a>
+<a href="#"><img src="https://img.shields.io/badge/NestJS-F0DB4F?style=for-the-badge&labelColor=0D1117&logo=nestjs" alt="NestJS"/></a>
 <br/>
 
 ## 🖥️ Frontend Skills
