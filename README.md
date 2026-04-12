@@ -1,32 +1,44 @@
-# Carlos Martínez Crespo
+<!-- markdownlint-disable MD033 -->
 
-Backend & Full-Stack Developer · Java · Spring Boot · React
+<h1 align="center">Carlos Martínez Crespo</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-martinez-crespo/)
-[![Open to collaborate](https://img.shields.io/badge/Open%20to%20collaborate-2ea44f?style=flat-square)](mailto:your@email.com)
+<p align="center">
+  Backend & Full-Stack Developer · Java · Spring Boot · React
+</p>
 
----
-
-Backend developer focused on distributed systems and clean architecture.  
-I design and build microservices with Java & Spring Boot, ship frontends with React & Next.js,  
-and containerize everything with Docker. I care about code that's readable, testable, and built to last.  
-Currently exploring event-driven architectures and improving my infrastructure skills.
-
----
-
-## 🚀 Featured projects
-
-| Project                                                           | Description                                            | Stack                       |
-| ----------------------------------------------------------------- | ------------------------------------------------------ | --------------------------- |
-| [supermarkets](https://github.com/N1b3lung0/supermarkets-backend) | Supermarkets Price Comparator                          | Java · Spring Boot · Docker |
-| [gymrat](https://github.com/N1b3lung0/gymrat-backend)             | App for tracking your progress in the gym              | Java · Spring Boot · Docker |
-| [project-name](https://github.com/n1b3lung0)                      | Short description of what it solves and why it matters | Next.js · TypeScript        |
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-martinez-crespo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Open%20to%20collaborate-2ea44f?style=flat-square" alt="Open to collaborate" />
+  </a>
+</p>
 
 ---
 
-## 🛠 Tech stack
+<p align="center">
+  Backend developer focused on distributed systems and clean architecture.<br/>
+  I design and build microservices with Java & Spring Boot, ship frontends with React & Next.js,<br/>
+  and containerize everything with Docker. I care about code that's readable, testable, and built to last.<br/>
+  Currently exploring event-driven architectures and improving my infrastructure skills.
+</p>
 
-⭐⭐ Familiar · ⭐⭐⭐ Comfortable · ⭐⭐⭐⭐ Advanced · ⭐⭐⭐⭐⭐ Expert
+---
+
+<h2 align="center">🚀 Featured projects</h2>
+
+|                              Project                              |                     Description                      |           Stack           |
+| :---------------------------------------------------------------: | :--------------------------------------------------: | :-----------------------: |
+| [supermarkets](https://github.com/N1b3lung0/supermarkets-backend) |            Supermarkets Price Comparator             | Java · Spring Boot · Docker |
+| [gymrat](https://github.com/N1b3lung0/gymrat-backend)             |      App for tracking your progress in the gym       | Java · Spring Boot · Docker |
+| [project-name](https://github.com/n1b3lung0)                      | Short description of what it solves and why it matters |    Next.js · TypeScript   |
+
+---
+
+<h2 align="center">🛠 Tech stack</h2>
+
+<p align="center">⭐⭐ Familiar · ⭐⭐⭐ Comfortable · ⭐⭐⭐⭐ Advanced · ⭐⭐⭐⭐⭐ Expert</p>
 
 |                                                           Languages                                                            |                                                                Backend                                                                |                                                      Frontend                                                       |                                                           Databases                                                            |                                                       Infrastructure                                                       |
 | :----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -37,10 +49,21 @@ Currently exploring event-driven architectures and improving my infrastructure s
 
 ---
 
-## 📊 GitHub stats
+<h2 align="center">📊 GitHub stats</h2>
 
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n1b3lung0&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n1b3lung0&theme=tokyonight" alt="Profile details" />
+</p>
 
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n1b3lung0&theme=tokyonight) ![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n1b3lung0&theme=tokyonight) ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=n1b3lung0&theme=tokyonight) ![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n1b3lung0&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n1b3lung0&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n1b3lung0&theme=tokyonight" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=n1b3lung0&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n1b3lung0&theme=tokyonight" alt="Productive time" />
+</p>
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=n1b3lung0&theme=react-dark&hide_border=true&days=40)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=n1b3lung0&theme=react-dark&hide_border=true&days=40" alt="Activity graph" />
+</p>
+
+<!-- markdownlint-enable MD033 -->
